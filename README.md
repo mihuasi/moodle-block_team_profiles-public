@@ -5,7 +5,7 @@ This plugin adds a new block type for Moodle. Its aim is to let site staff manag
 - Reordering 
 - Show/hide members
 - Photo upload via Moodle's file picker
-- Choice of two layouts
+- Four ready-made layouts: designs chosen by researching team sections used across professional and agency sites
 - Layouts are via mustache templates, that can be overriden in the theme
 - No HTML editing required to update content
 ## Installation
@@ -21,6 +21,6 @@ This plugin adds a new block type for Moodle. Its aim is to let site staff manag
 ### Adding to the Dashboard
 If you add this block to the **Dashboard**, make sure you add it via **Site administration → Appearance → Default Dashboard page**, not from your own personal Dashboard. This ensures it is pushed out to everyone.
 ## Requirements
-- Moodle 4.1 or later
+- Moodle 4.0 or later
 ## License
 GPL v3 or later
