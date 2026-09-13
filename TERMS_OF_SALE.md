@@ -14,4 +14,4 @@ Updates: Minor updates and bug fixes are included at no additional cost. Major v
 
 EU Right of Withdrawal Exemption:
 
-Under EU consumer rights laws, digital content downloads are exempt from the standard 14-day statutory withdrawal/refund period once delivery or access has begun with the consumer's express consent. Explicitly stating that "Due to the digital delivery of downloadable software, access begins immediately upon purchase and sales are final" covers this requirement under EU rules.
+Under EU consumer rights laws, digital content downloads are exempt from the standard 14-day statutory withdrawal/refund period once delivery or access has begun with the consumer's express consent. Due to the digital delivery of downloadable software, access begins immediately upon purchase and sales are final.
